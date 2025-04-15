@@ -185,7 +185,7 @@ section{
     width: 100%;
     display: flex;
     align-items: center;
-    background: url(/img/banner-bg.png);
+    background: url('./img/banner-bg.png');
     background-size: cover;
     background-position: center;
     background-position-y: 20px;
